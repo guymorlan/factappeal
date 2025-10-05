@@ -1,8 +1,8 @@
 # Data for "FactAppeal: Identifying Epistemic Factual Appeals in News Media"
 
-The `data/` directory contains the FactAppeal dataset, split into training (70%), development (15%), and test (15%) sets.
-
 * **Description**: The dataset consists of 3,226 English-language sentences from news articles, manually annotated with fine-grained, span-level tags to identify factual claims and their epistemic appeals.
+
+* **Split**: The dataset is split into training (70%), development (15%), and test (15%) sets.
 
 * **Files**:
     * `data/train.csv` (2258 sentences)
