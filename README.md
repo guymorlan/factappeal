@@ -5,9 +5,9 @@
 * **Split**: The dataset is split into training (70%), development (15%), and test (15%) sets.
 
 * **Files**:
-    * `data/train.csv` (2258 sentences)
-    * `data/dev.csv` (484 sentences)
-    * `data/test.csv` (484 sentences)
+    * `train.csv` (2258 sentences)
+    * `val.csv` (484 sentences)
+    * `test.csv` (484 sentences)
 
 * **Format**: The data is provided in CSV format. Each file has two columns: `sentence` for the raw sentence, and `annotation` for the annotated sentences. The annotations are provided as XML-style tags within the text.
 
